@@ -103,12 +103,7 @@
               },
               {
                 "tab": "Model API",
-                "groups": [
-                  {
-                    "group": "GPT Image 2 Official",
-                    "openapi": "https://cdn.amux.ai/data/gpt-image-2-official.openapi.zh.json"
-                  }
-                ]
+                "openapi": "https://cdn.amux.ai/data/gpt-image-2-official.openapi.zh.json"
               },
               {
                 "tab": "Gateway API"
